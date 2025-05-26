@@ -95,6 +95,6 @@ Screenshots and videos of the system in action will be uploaded to demonstrate g
 
 ## 📬 Contact
 
-For questions, collaboration, or feedback, feel free to reach out via [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/joshua-sutherland/)) or open an issue on this repo!
+For questions, collaboration, or feedback, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/joshua-sutherland/) or open an issue on this repo!
 
 ---
